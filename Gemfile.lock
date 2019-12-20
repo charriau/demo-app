@@ -51,7 +51,7 @@ GEM
     mime-types (2.6.1)
     minitest (5.9.0)
     nokogiri (1.6.8.1)
-    rack (1.6.4)
+    rack (1.6.12)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.7.1)
